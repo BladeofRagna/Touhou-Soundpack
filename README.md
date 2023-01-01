@@ -1,7 +1,7 @@
 # Touhou-Soundpack
 A small sound pack that changes some of KH2's system sound effects from the Touhou series
 
-List of SFX that are replace:
+List of SFX that are replaced:
   - Getting a Drive Gauge
   - Getting MAX Drive
   - Using a Drive Form
