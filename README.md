@@ -8,6 +8,6 @@ List of SFX that are replaced:
   - Level Up
   - Dying/Game Over
   - Defeating a Boss
-  - Menu Selection, Cancel, and Move
+  - Menu Selection, Cancel, Move, and Error
 
 More will likely be added later in the future!
