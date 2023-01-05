@@ -11,3 +11,5 @@ List of SFX that are replaced:
   - Menu Selection, Cancel, Move, and Error
 
 More will likely be added later in the future!
+
+Major thanks to TheNja09#0909 for helping me figure out how to do this stuff in the first place!
