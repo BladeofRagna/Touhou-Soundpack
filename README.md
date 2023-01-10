@@ -9,6 +9,7 @@ List of SFX that are replaced:
   - Dying/Game Over
   - Defeating a Boss
   - Menu Selection, Cancel, Move, and Error
+  - Low HP Warning
 
 More will likely be added later in the future!
 
