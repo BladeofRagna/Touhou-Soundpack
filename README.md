@@ -11,6 +11,8 @@ List of SFX that are replaced:
   - Menu Selection, Cancel, Move, and Error
   - Low HP Warning
   - Picking up commonly dropped item orbs (And bouncing off the ground (HP, MP, Drive, Munny))
+  - Entering Antiform
+  - Wisdom Form Shoot (Attack)
 
 More will likely be added later in the future!
 
